@@ -33,9 +33,9 @@ Frontend Developer • Creative Coder • UI Lover
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KasugaShio&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chifishfish&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasugaShio&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chifishfish&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -44,7 +44,7 @@ Frontend Developer • Creative Coder • UI Lover
 # 🔥 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KasugaShio&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chifishfish&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
