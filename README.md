@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm KasugaShio</h1>
+<h1 align="center">Hi 👋 I'm Chifishfish</h1>
 
 <p align="center">
 Frontend Developer • Creative Coder • UI Lover
